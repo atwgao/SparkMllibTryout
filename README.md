@@ -14,7 +14,7 @@
 You can run program with "your sparkfolder"/bin/pyspark Script.py
 
 # Running Code
-Code is written in PyCharm with Python 2.7, Spark 2.0 on Ubuntu 16.04 machine
+Code is written in PyCharm with Python 2.7 with numpy and scipy, Spark 2.0 on Ubuntu 16.04 machine
 
 # Extras
 cancerWork.py is a small script in order to find lambda values for Age,Weight and Height
