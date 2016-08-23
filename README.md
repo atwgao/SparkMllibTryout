@@ -1,14 +1,14 @@
 # Goal
-Small Data Science Project with using PySpark
-Creating a project to show some features about Spark
+- Small Data Science Project with using PySpark
+- Creating a project to show some features about Spark
 
 # Features
-Custom Data Transformer [https://en.wikipedia.org/wiki/Power_transform#Box.E2.80.93Cox_transformation](BoxCoxTransformer.py)
-Bagging (Bootstrap aggregating) [https://en.wikipedia.org/wiki/Bootstrap_aggregating]()
-Data munging with DataFrames
-Saving spark models
-Cross Validation
-Logistic Regression
+- Custom Data Transformer (BoxCoxTransformer.py) which uses  [Box Cox Transformation]https://en.wikipedia.org/wiki/Power_transform#Box.E2.80.93Cox_transformation
+- Bagging [(Bootstrap aggregating)](https://en.wikipedia.org/wiki/Bootstrap_aggregating)
+- Data munging with DataFrames
+- Saving spark models
+- Cross Validation
+- Logistic Regression
 
 # Usage
 You can run program with "your sparkfolder"/bin/pyspark Script.py
