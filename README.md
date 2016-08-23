@@ -3,7 +3,7 @@
 - Creating a project to show some features about Spark
 
 # Features
-- Custom Data Transformer (BoxCoxTransformer.py) which uses  [Box Cox Transformation]https://en.wikipedia.org/wiki/Power_transform#Box.E2.80.93Cox_transformation
+- Custom Data Transformer (BoxCoxTransformer.py) which uses  [Box Cox Transformation](https://en.wikipedia.org/wiki/Power_transform#Box.E2.80.93Cox_transformation)
 - Bagging [(Bootstrap aggregating)](https://en.wikipedia.org/wiki/Bootstrap_aggregating)
 - Data munging with DataFrames
 - Saving spark models
